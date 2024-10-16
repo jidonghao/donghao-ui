@@ -1,0 +1,8 @@
+packages/
+public/
+src/
+
+vue.config.js
+babel.config.js
+*.map
+.gitignore
